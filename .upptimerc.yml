@@ -10,7 +10,7 @@ sites:
   - name: Second Year
     url: https://ohmlaws.github.io/secondyear/ 
   - name: Resistor Hub
-    url: https://roniui.github.io/resistor/
+    url: https://ohmlaws.github.io/resistor/
   - name: Age Calculator
     url: https://roniui.github.io/date/calculator
 
